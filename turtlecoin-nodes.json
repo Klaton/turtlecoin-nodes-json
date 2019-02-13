@@ -353,6 +353,12 @@
       "url": "trtl01.etc-hosts.xyz",
       "port": 11898,
       "ssl": false
-    }
+    },
+    {
+      "name": "Vader`s Node",
+      "url": "192.168.178.34",
+      "port": 11898,
+      "ssl": false
+    } 
   ]
 }
