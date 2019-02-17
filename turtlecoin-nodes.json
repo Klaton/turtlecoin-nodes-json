@@ -353,6 +353,10 @@
       "url": "trtl01.etc-hosts.xyz",
       "port": 11898,
       "ssl": false
-    }
+    },
+      "name": "Vader`s little Node",
+      "url": "5.147.166.154",
+      "port": 11898,
+      "ssl": false 
   ]
 }
